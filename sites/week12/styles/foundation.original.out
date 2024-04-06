@@ -1,0 +1,350 @@
+foundation.original.css
+   209:27  ✖  Unexpected duplicate name monospace                                                                                                                 font-family-no-duplicate-names
+   394:16  ✖  Unexpected missing generic font family                                                                                                              font-family-no-missing-generic-family-keyword
+   396:1   ✖  Unexpected duplicate selector "html", first used at line 18                                                                                         no-duplicate-selectors
+   405:1   ✖  Unexpected duplicate selector "body", first used at line 31                                                                                         no-duplicate-selectors
+   416:1   ✖  Unexpected duplicate selector "img", first used at line 171                                                                                         no-duplicate-selectors
+   419:3   ✖  Unexpected unknown property "interpolation-mode"                                                                                                    property-no-unknown
+   423:1   ✖  Unexpected duplicate selector "textarea", first used at line 369                                                                                    no-duplicate-selectors
+   432:1   ✖  Expected id selector "#map_canvas" to be kebab-case                                                                                                 selector-id-pattern
+   432:17  ✖  Expected id selector " #map_canvas" to be kebab-case                                                                                                selector-id-pattern
+   432:17  ✖  Expected id selector " #map_canvas" to be kebab-case                                                                                                selector-id-pattern
+   435:1   ✖  Expected selector ".map_canvas img" to come before selector "#map_canvas img"                                                                       no-descending-specificity
+   435:1   ✖  Expected class selector " .map_canvas" to be kebab-case                                                                                             selector-class-pattern
+   436:1   ✖  Expected selector ".map_canvas embed" to come before selector "#map_canvas embed"                                                                   no-descending-specificity
+   436:1   ✖  Expected class selector " .map_canvas" to be kebab-case                                                                                             selector-class-pattern
+   437:1   ✖  Expected selector ".map_canvas object" to come before selector "#map_canvas object"                                                                 no-descending-specificity
+   437:1   ✖  Expected class selector " .map_canvas" to be kebab-case                                                                                             selector-class-pattern
+   438:1   ✖  Expected selector ".mqa-display img" to come before selector "#map_canvas img"                                                                      no-descending-specificity
+   439:1   ✖  Expected selector ".mqa-display embed" to come before selector "#map_canvas embed"                                                                  no-descending-specificity
+   440:1   ✖  Expected selector ".mqa-display object" to come before selector "#map_canvas object"                                                                no-descending-specificity
+   443:1   ✖  Unexpected duplicate selector "button", first used at line 244                                                                                      no-duplicate-selectors
+   497:1   ✖  Expected selector ".column" to come before selector ".row.collapse > .column"                                                                       no-descending-specificity
+   497:10  ✖  Expected selector ".columns" to come before selector ".row.collapse > .columns"                                                                     no-descending-specificity
+   524:10  ✖  Expected "8.33333" to be "8.3333"                                                                                                                   number-max-precision
+   528:9   ✖  Expected "8.33333" to be "8.3333"                                                                                                                   number-max-precision
+   532:9   ✖  Expected "-8.33333" to be "-8.3333"                                                                                                                 number-max-precision
+   538:10  ✖  Expected "16.66667" to be "16.6667"                                                                                                                 number-max-precision
+   542:9   ✖  Expected "16.66667" to be "16.6667"                                                                                                                 number-max-precision
+   546:9   ✖  Expected "-16.66667" to be "-16.6667"                                                                                                               number-max-precision
+   549:16  ✖  Expected "8.33333" to be "8.3333"                                                                                                                   number-max-precision
+   563:16  ✖  Expected "16.66667" to be "16.6667"                                                                                                                 number-max-precision
+   566:10  ✖  Expected "33.33333" to be "33.3333"                                                                                                                 number-max-precision
+   570:9   ✖  Expected "33.33333" to be "33.3333"                                                                                                                 number-max-precision
+   574:9   ✖  Expected "-33.33333" to be "-33.3333"                                                                                                               number-max-precision
+   580:10  ✖  Expected "41.66667" to be "41.6667"                                                                                                                 number-max-precision
+   584:9   ✖  Expected "41.66667" to be "41.6667"                                                                                                                 number-max-precision
+   588:9   ✖  Expected "-41.66667" to be "-41.6667"                                                                                                               number-max-precision
+   591:16  ✖  Expected "33.33333" to be "33.3333"                                                                                                                 number-max-precision
+   605:16  ✖  Expected "41.66667" to be "41.6667"                                                                                                                 number-max-precision
+   608:10  ✖  Expected "58.33333" to be "58.3333"                                                                                                                 number-max-precision
+   612:9   ✖  Expected "58.33333" to be "58.3333"                                                                                                                 number-max-precision
+   616:9   ✖  Expected "-58.33333" to be "-58.3333"                                                                                                               number-max-precision
+   622:10  ✖  Expected "66.66667" to be "66.6667"                                                                                                                 number-max-precision
+   626:9   ✖  Expected "66.66667" to be "66.6667"                                                                                                                 number-max-precision
+   630:9   ✖  Expected "-66.66667" to be "-66.6667"                                                                                                               number-max-precision
+   633:16  ✖  Expected "58.33333" to be "58.3333"                                                                                                                 number-max-precision
+   647:16  ✖  Expected "66.66667" to be "66.6667"                                                                                                                 number-max-precision
+   650:10  ✖  Expected "83.33333" to be "83.3333"                                                                                                                 number-max-precision
+   654:9   ✖  Expected "83.33333" to be "83.3333"                                                                                                                 number-max-precision
+   658:9   ✖  Expected "-83.33333" to be "-83.3333"                                                                                                               number-max-precision
+   664:10  ✖  Expected "91.66667" to be "91.6667"                                                                                                                 number-max-precision
+   668:9   ✖  Expected "91.66667" to be "91.6667"                                                                                                                 number-max-precision
+   672:9   ✖  Expected "-91.66667" to be "-91.6667"                                                                                                               number-max-precision
+   675:16  ✖  Expected "83.33333" to be "83.3333"                                                                                                                 number-max-precision
+   681:16  ✖  Expected "91.66667" to be "91.6667"                                                                                                                 number-max-precision
+   683:1   ✖  Expected selector ".small-up-1 > .column" to come before selector ".row.collapse > .column"                                                         no-descending-specificity
+   683:24  ✖  Expected selector ".small-up-1 > .columns" to come before selector ".row.collapse > .columns"                                                       no-descending-specificity
+   696:1   ✖  Expected selector ".small-up-2 > .column" to come before selector ".row.collapse > .column"                                                         no-descending-specificity
+   696:24  ✖  Expected selector ".small-up-2 > .columns" to come before selector ".row.collapse > .columns"                                                       no-descending-specificity
+   709:1   ✖  Expected selector ".small-up-3 > .column" to come before selector ".row.collapse > .column"                                                         no-descending-specificity
+   709:24  ✖  Expected selector ".small-up-3 > .columns" to come before selector ".row.collapse > .columns"                                                       no-descending-specificity
+   710:10  ✖  Expected "33.33333" to be "33.3333"                                                                                                                 number-max-precision
+   722:1   ✖  Expected selector ".small-up-4 > .column" to come before selector ".row.collapse > .column"                                                         no-descending-specificity
+   722:24  ✖  Expected selector ".small-up-4 > .columns" to come before selector ".row.collapse > .columns"                                                       no-descending-specificity
+   735:1   ✖  Expected selector ".small-up-5 > .column" to come before selector ".row.collapse > .column"                                                         no-descending-specificity
+   735:24  ✖  Expected selector ".small-up-5 > .columns" to come before selector ".row.collapse > .columns"                                                       no-descending-specificity
+   748:1   ✖  Expected selector ".small-up-6 > .column" to come before selector ".row.collapse > .column"                                                         no-descending-specificity
+   748:24  ✖  Expected selector ".small-up-6 > .columns" to come before selector ".row.collapse > .columns"                                                       no-descending-specificity
+   749:10  ✖  Expected "16.66667" to be "16.6667"                                                                                                                 number-max-precision
+   761:1   ✖  Expected selector ".small-up-7 > .column" to come before selector ".row.collapse > .column"                                                         no-descending-specificity
+   761:24  ✖  Expected selector ".small-up-7 > .columns" to come before selector ".row.collapse > .columns"                                                       no-descending-specificity
+   762:10  ✖  Expected "14.28571" to be "14.2857"                                                                                                                 number-max-precision
+   774:1   ✖  Expected selector ".small-up-8 > .column" to come before selector ".row.collapse > .column"                                                         no-descending-specificity
+   774:24  ✖  Expected selector ".small-up-8 > .columns" to come before selector ".row.collapse > .columns"                                                       no-descending-specificity
+   787:1   ✖  Expected selector ".small-collapse > .column" to come before selector ".row.collapse > .column"                                                     no-descending-specificity
+   787:28  ✖  Expected selector ".small-collapse > .columns" to come before selector ".row.collapse > .columns"                                                   no-descending-specificity
+   791:1   ✖  Expected selector ".small-collapse .row" to come before selector ".row.expanded .row"                                                               no-descending-specificity
+   796:1   ✖  Expected selector ".small-uncollapse > .column" to come before selector ".row.collapse > .column"                                                   no-descending-specificity
+   796:30  ✖  Expected selector ".small-uncollapse > .columns" to come before selector ".row.collapse > .columns"                                                 no-descending-specificity
+   815:12  ✖  Expected "8.33333" to be "8.3333"                                                                                                                   number-max-precision
+   819:11  ✖  Expected "8.33333" to be "8.3333"                                                                                                                   number-max-precision
+   823:11  ✖  Expected "-8.33333" to be "-8.3333"                                                                                                                 number-max-precision
+   829:12  ✖  Expected "16.66667" to be "16.6667"                                                                                                                 number-max-precision
+   833:11  ✖  Expected "16.66667" to be "16.6667"                                                                                                                 number-max-precision
+   837:11  ✖  Expected "-16.66667" to be "-16.6667"                                                                                                               number-max-precision
+   840:18  ✖  Expected "8.33333" to be "8.3333"                                                                                                                   number-max-precision
+   854:18  ✖  Expected "16.66667" to be "16.6667"                                                                                                                 number-max-precision
+   857:12  ✖  Expected "33.33333" to be "33.3333"                                                                                                                 number-max-precision
+   861:11  ✖  Expected "33.33333" to be "33.3333"                                                                                                                 number-max-precision
+   865:11  ✖  Expected "-33.33333" to be "-33.3333"                                                                                                               number-max-precision
+   871:12  ✖  Expected "41.66667" to be "41.6667"                                                                                                                 number-max-precision
+   875:11  ✖  Expected "41.66667" to be "41.6667"                                                                                                                 number-max-precision
+   879:11  ✖  Expected "-41.66667" to be "-41.6667"                                                                                                               number-max-precision
+   882:18  ✖  Expected "33.33333" to be "33.3333"                                                                                                                 number-max-precision
+   896:18  ✖  Expected "41.66667" to be "41.6667"                                                                                                                 number-max-precision
+   899:12  ✖  Expected "58.33333" to be "58.3333"                                                                                                                 number-max-precision
+   903:11  ✖  Expected "58.33333" to be "58.3333"                                                                                                                 number-max-precision
+   907:11  ✖  Expected "-58.33333" to be "-58.3333"                                                                                                               number-max-precision
+   913:12  ✖  Expected "66.66667" to be "66.6667"                                                                                                                 number-max-precision
+   917:11  ✖  Expected "66.66667" to be "66.6667"                                                                                                                 number-max-precision
+   921:11  ✖  Expected "-66.66667" to be "-66.6667"                                                                                                               number-max-precision
+   924:18  ✖  Expected "58.33333" to be "58.3333"                                                                                                                 number-max-precision
+   938:18  ✖  Expected "66.66667" to be "66.6667"                                                                                                                 number-max-precision
+   941:12  ✖  Expected "83.33333" to be "83.3333"                                                                                                                 number-max-precision
+   945:11  ✖  Expected "83.33333" to be "83.3333"                                                                                                                 number-max-precision
+   949:11  ✖  Expected "-83.33333" to be "-83.3333"                                                                                                               number-max-precision
+   955:12  ✖  Expected "91.66667" to be "91.6667"                                                                                                                 number-max-precision
+   959:11  ✖  Expected "91.66667" to be "91.6667"                                                                                                                 number-max-precision
+   963:11  ✖  Expected "-91.66667" to be "-91.6667"                                                                                                               number-max-precision
+   966:18  ✖  Expected "83.33333" to be "83.3333"                                                                                                                 number-max-precision
+   972:18  ✖  Expected "91.66667" to be "91.6667"                                                                                                                 number-max-precision
+   987:3   ✖  Expected selector ".medium-up-2 > .column" to come before selector ".medium-up-1 > .column:nth-of-type(1n)"                                         no-descending-specificity
+   987:27  ✖  Expected selector ".medium-up-2 > .columns" to come before selector ".medium-up-1 > .columns:nth-of-type(1n)"                                       no-descending-specificity
+  1000:3   ✖  Expected selector ".medium-up-3 > .column" to come before selector ".medium-up-1 > .column:nth-of-type(1n)"                                         no-descending-specificity
+  1000:27  ✖  Expected selector ".medium-up-3 > .columns" to come before selector ".medium-up-1 > .columns:nth-of-type(1n)"                                       no-descending-specificity
+  1001:12  ✖  Expected "33.33333" to be "33.3333"                                                                                                                 number-max-precision
+  1013:3   ✖  Expected selector ".medium-up-4 > .column" to come before selector ".medium-up-1 > .column:nth-of-type(1n)"                                         no-descending-specificity
+  1013:27  ✖  Expected selector ".medium-up-4 > .columns" to come before selector ".medium-up-1 > .columns:nth-of-type(1n)"                                       no-descending-specificity
+  1026:3   ✖  Expected selector ".medium-up-5 > .column" to come before selector ".medium-up-1 > .column:nth-of-type(1n)"                                         no-descending-specificity
+  1026:27  ✖  Expected selector ".medium-up-5 > .columns" to come before selector ".medium-up-1 > .columns:nth-of-type(1n)"                                       no-descending-specificity
+  1039:3   ✖  Expected selector ".medium-up-6 > .column" to come before selector ".medium-up-1 > .column:nth-of-type(1n)"                                         no-descending-specificity
+  1039:27  ✖  Expected selector ".medium-up-6 > .columns" to come before selector ".medium-up-1 > .columns:nth-of-type(1n)"                                       no-descending-specificity
+  1040:12  ✖  Expected "16.66667" to be "16.6667"                                                                                                                 number-max-precision
+  1052:3   ✖  Expected selector ".medium-up-7 > .column" to come before selector ".medium-up-1 > .column:nth-of-type(1n)"                                         no-descending-specificity
+  1052:27  ✖  Expected selector ".medium-up-7 > .columns" to come before selector ".medium-up-1 > .columns:nth-of-type(1n)"                                       no-descending-specificity
+  1053:12  ✖  Expected "14.28571" to be "14.2857"                                                                                                                 number-max-precision
+  1065:3   ✖  Expected selector ".medium-up-8 > .column" to come before selector ".medium-up-1 > .column:nth-of-type(1n)"                                         no-descending-specificity
+  1065:27  ✖  Expected selector ".medium-up-8 > .columns" to come before selector ".medium-up-1 > .columns:nth-of-type(1n)"                                       no-descending-specificity
+  1078:3   ✖  Expected selector ".medium-collapse > .column" to come before selector ".medium-up-1 > .column:nth-of-type(1n)"                                     no-descending-specificity
+  1078:31  ✖  Expected selector ".medium-collapse > .columns" to come before selector ".medium-up-1 > .columns:nth-of-type(1n)"                                   no-descending-specificity
+  1087:3   ✖  Expected selector ".medium-uncollapse > .column" to come before selector ".medium-up-1 > .column:nth-of-type(1n)"                                   no-descending-specificity
+  1087:33  ✖  Expected selector ".medium-uncollapse > .columns" to come before selector ".medium-up-1 > .columns:nth-of-type(1n)"                                 no-descending-specificity
+  1106:12  ✖  Expected "8.33333" to be "8.3333"                                                                                                                   number-max-precision
+  1110:11  ✖  Expected "8.33333" to be "8.3333"                                                                                                                   number-max-precision
+  1114:11  ✖  Expected "-8.33333" to be "-8.3333"                                                                                                                 number-max-precision
+  1120:12  ✖  Expected "16.66667" to be "16.6667"                                                                                                                 number-max-precision
+  1124:11  ✖  Expected "16.66667" to be "16.6667"                                                                                                                 number-max-precision
+  1128:11  ✖  Expected "-16.66667" to be "-16.6667"                                                                                                               number-max-precision
+  1131:18  ✖  Expected "8.33333" to be "8.3333"                                                                                                                   number-max-precision
+  1145:18  ✖  Expected "16.66667" to be "16.6667"                                                                                                                 number-max-precision
+  1148:12  ✖  Expected "33.33333" to be "33.3333"                                                                                                                 number-max-precision
+  1152:11  ✖  Expected "33.33333" to be "33.3333"                                                                                                                 number-max-precision
+  1156:11  ✖  Expected "-33.33333" to be "-33.3333"                                                                                                               number-max-precision
+  1162:12  ✖  Expected "41.66667" to be "41.6667"                                                                                                                 number-max-precision
+  1166:11  ✖  Expected "41.66667" to be "41.6667"                                                                                                                 number-max-precision
+  1170:11  ✖  Expected "-41.66667" to be "-41.6667"                                                                                                               number-max-precision
+  1173:18  ✖  Expected "33.33333" to be "33.3333"                                                                                                                 number-max-precision
+  1187:18  ✖  Expected "41.66667" to be "41.6667"                                                                                                                 number-max-precision
+  1190:12  ✖  Expected "58.33333" to be "58.3333"                                                                                                                 number-max-precision
+  1194:11  ✖  Expected "58.33333" to be "58.3333"                                                                                                                 number-max-precision
+  1198:11  ✖  Expected "-58.33333" to be "-58.3333"                                                                                                               number-max-precision
+  1204:12  ✖  Expected "66.66667" to be "66.6667"                                                                                                                 number-max-precision
+  1208:11  ✖  Expected "66.66667" to be "66.6667"                                                                                                                 number-max-precision
+  1212:11  ✖  Expected "-66.66667" to be "-66.6667"                                                                                                               number-max-precision
+  1215:18  ✖  Expected "58.33333" to be "58.3333"                                                                                                                 number-max-precision
+  1229:18  ✖  Expected "66.66667" to be "66.6667"                                                                                                                 number-max-precision
+  1232:12  ✖  Expected "83.33333" to be "83.3333"                                                                                                                 number-max-precision
+  1236:11  ✖  Expected "83.33333" to be "83.3333"                                                                                                                 number-max-precision
+  1240:11  ✖  Expected "-83.33333" to be "-83.3333"                                                                                                               number-max-precision
+  1246:12  ✖  Expected "91.66667" to be "91.6667"                                                                                                                 number-max-precision
+  1250:11  ✖  Expected "91.66667" to be "91.6667"                                                                                                                 number-max-precision
+  1254:11  ✖  Expected "-91.66667" to be "-91.6667"                                                                                                               number-max-precision
+  1257:18  ✖  Expected "83.33333" to be "83.3333"                                                                                                                 number-max-precision
+  1263:18  ✖  Expected "91.66667" to be "91.6667"                                                                                                                 number-max-precision
+  1278:3   ✖  Expected selector ".large-up-2 > .column" to come before selector ".large-up-1 > .column:nth-of-type(1n)"                                           no-descending-specificity
+  1278:26  ✖  Expected selector ".large-up-2 > .columns" to come before selector ".large-up-1 > .columns:nth-of-type(1n)"                                         no-descending-specificity
+  1291:3   ✖  Expected selector ".large-up-3 > .column" to come before selector ".large-up-1 > .column:nth-of-type(1n)"                                           no-descending-specificity
+  1291:26  ✖  Expected selector ".large-up-3 > .columns" to come before selector ".large-up-1 > .columns:nth-of-type(1n)"                                         no-descending-specificity
+  1292:12  ✖  Expected "33.33333" to be "33.3333"                                                                                                                 number-max-precision
+  1304:3   ✖  Expected selector ".large-up-4 > .column" to come before selector ".large-up-1 > .column:nth-of-type(1n)"                                           no-descending-specificity
+  1304:26  ✖  Expected selector ".large-up-4 > .columns" to come before selector ".large-up-1 > .columns:nth-of-type(1n)"                                         no-descending-specificity
+  1317:3   ✖  Expected selector ".large-up-5 > .column" to come before selector ".large-up-1 > .column:nth-of-type(1n)"                                           no-descending-specificity
+  1317:26  ✖  Expected selector ".large-up-5 > .columns" to come before selector ".large-up-1 > .columns:nth-of-type(1n)"                                         no-descending-specificity
+  1330:3   ✖  Expected selector ".large-up-6 > .column" to come before selector ".large-up-1 > .column:nth-of-type(1n)"                                           no-descending-specificity
+  1330:26  ✖  Expected selector ".large-up-6 > .columns" to come before selector ".large-up-1 > .columns:nth-of-type(1n)"                                         no-descending-specificity
+  1331:12  ✖  Expected "16.66667" to be "16.6667"                                                                                                                 number-max-precision
+  1343:3   ✖  Expected selector ".large-up-7 > .column" to come before selector ".large-up-1 > .column:nth-of-type(1n)"                                           no-descending-specificity
+  1343:26  ✖  Expected selector ".large-up-7 > .columns" to come before selector ".large-up-1 > .columns:nth-of-type(1n)"                                         no-descending-specificity
+  1344:12  ✖  Expected "14.28571" to be "14.2857"                                                                                                                 number-max-precision
+  1356:3   ✖  Expected selector ".large-up-8 > .column" to come before selector ".large-up-1 > .column:nth-of-type(1n)"                                           no-descending-specificity
+  1356:26  ✖  Expected selector ".large-up-8 > .columns" to come before selector ".large-up-1 > .columns:nth-of-type(1n)"                                         no-descending-specificity
+  1369:3   ✖  Expected selector ".large-collapse > .column" to come before selector ".large-up-1 > .column:nth-of-type(1n)"                                       no-descending-specificity
+  1369:30  ✖  Expected selector ".large-collapse > .columns" to come before selector ".large-up-1 > .columns:nth-of-type(1n)"                                     no-descending-specificity
+  1378:3   ✖  Expected selector ".large-uncollapse > .column" to come before selector ".large-up-1 > .column:nth-of-type(1n)"                                     no-descending-specificity
+  1378:32  ✖  Expected selector ".large-uncollapse > .columns" to come before selector ".large-up-1 > .columns:nth-of-type(1n)"                                   no-descending-specificity
+  1428:1   ✖  Unexpected duplicate selector "strong, b", first used at line 118                                                                                   no-duplicate-selectors
+  1433:1   ✖  Unexpected duplicate selector "small", first used at line 146                                                                                       no-duplicate-selectors
+  1461:1   ✖  Unexpected duplicate selector "h1", first used at line 132                                                                                          no-duplicate-selectors
+  1498:1   ✖  Expected selector "a" to come before selector "a:active"                                                                                            no-descending-specificity
+  1498:1   ✖  Unexpected duplicate selector "a", first used at line 95                                                                                            no-duplicate-selectors
+  1507:3   ✖  Expected selector "a img" to come before selector "#map_canvas img"                                                                                 no-descending-specificity
+  1510:1   ✖  Unexpected duplicate selector "hr", first used at line 192                                                                                          no-duplicate-selectors
+  1904:1   ✖  Expected selector "textarea" to come before selector "textarea:focus"                                                                               no-descending-specificity
+  1904:1   ✖  Unexpected duplicate selector "textarea", first used at line 369                                                                                    no-duplicate-selectors
+  1910:6   ✖  Unexpected unknown pseudo-element selector "::input-placeholder"                                                                                    selector-pseudo-element-no-unknown
+  1910:6   ✖  Unexpected unknown pseudo-element selector "::input-placeholder"                                                                                    selector-pseudo-element-no-unknown
+  1918:6   ✖  Unexpected unknown pseudo-class selector ":input-placeholder"                                                                                       selector-pseudo-class-no-unknown
+  1918:6   ✖  Unexpected unknown pseudo-class selector ":input-placeholder"                                                                                       selector-pseudo-class-no-unknown
+  1922:1   ✖  Unexpected duplicate selector "input::placeholder, textarea::placeholder", first used at line 1914                                                  no-duplicate-selectors
+  1964:1   ✖  Expected selector "label" to come before selector "[type='checkbox'] + label"                                                                       no-descending-specificity
+  2039:1   ✖  Unexpected duplicate selector "legend", first used at line 358                                                                                      no-duplicate-selectors
+  2054:1   ✖  Unexpected duplicate selector "select", first used at line 428                                                                                      no-duplicate-selectors
+  2131:3   ✖  Expected selector ".accordion-title:hover" to come before selector ":last-child:not(.is-active) > .accordion-title"                                 no-descending-specificity
+  2131:27  ✖  Expected selector ".accordion-title:focus" to come before selector ":last-child:not(.is-active) > .accordion-title"                                 no-descending-specificity
+  2278:7   ✖  Expected selector ".button-group.expanded .button:first-child:nth-last-child(2):last-child" to come before selector ".button-group.expanded         no-descending-specificity
+              .button:first-child:nth-last-child(2):first-child:nth-last-child(2) ~ .button"
+  2281:5   ✖  Expected selector ".button-group.expanded .button:first-child:nth-last-child(3)" to come before selector ".button-group.expanded                    no-descending-specificity
+              .button:first-child:nth-last-child(2):first-child:nth-last-child(2) ~ .button"
+  2281:67  ✖  Expected selector ".button-group.expanded .button:first-child:nth-last-child(3):first-child:nth-last-child(3) ~ .button" to come before selector    no-descending-specificity
+              ".button-group.expanded .button:first-child:nth-last-child(2):first-child:nth-last-child(2) ~ .button:last-child"
+  2283:19  ✖  Expected "33.33333" to be "33.3333"                                                                                                                 number-max-precision
+  2286:7   ✖  Expected selector ".button-group.expanded .button:first-child:nth-last-child(3):last-child" to come before selector ".button-group.expanded         no-descending-specificity
+              .button:first-child:nth-last-child(2):first-child:nth-last-child(2) ~ .button"
+  2289:5   ✖  Expected selector ".button-group.expanded .button:first-child:nth-last-child(4)" to come before selector ".button-group.expanded                    no-descending-specificity
+              .button:first-child:nth-last-child(2):first-child:nth-last-child(2) ~ .button"
+  2289:67  ✖  Expected selector ".button-group.expanded .button:first-child:nth-last-child(4):first-child:nth-last-child(4) ~ .button" to come before selector    no-descending-specificity
+              ".button-group.expanded .button:first-child:nth-last-child(2):first-child:nth-last-child(2) ~ .button:last-child"
+  2294:7   ✖  Expected selector ".button-group.expanded .button:first-child:nth-last-child(4):last-child" to come before selector ".button-group.expanded         no-descending-specificity
+              .button:first-child:nth-last-child(2):first-child:nth-last-child(2) ~ .button"
+  2297:5   ✖  Expected selector ".button-group.expanded .button:first-child:nth-last-child(5)" to come before selector ".button-group.expanded                    no-descending-specificity
+              .button:first-child:nth-last-child(2):first-child:nth-last-child(2) ~ .button"
+  2297:67  ✖  Expected selector ".button-group.expanded .button:first-child:nth-last-child(5):first-child:nth-last-child(5) ~ .button" to come before selector    no-descending-specificity
+              ".button-group.expanded .button:first-child:nth-last-child(2):first-child:nth-last-child(2) ~ .button:last-child"
+  2302:7   ✖  Expected selector ".button-group.expanded .button:first-child:nth-last-child(5):last-child" to come before selector ".button-group.expanded         no-descending-specificity
+              .button:first-child:nth-last-child(2):first-child:nth-last-child(2) ~ .button"
+  2305:5   ✖  Expected selector ".button-group.expanded .button:first-child:nth-last-child(6)" to come before selector ".button-group.expanded                    no-descending-specificity
+              .button:first-child:nth-last-child(2):first-child:nth-last-child(2) ~ .button"
+  2305:67  ✖  Expected selector ".button-group.expanded .button:first-child:nth-last-child(6):first-child:nth-last-child(6) ~ .button" to come before selector    no-descending-specificity
+              ".button-group.expanded .button:first-child:nth-last-child(2):first-child:nth-last-child(2) ~ .button:last-child"
+  2307:19  ✖  Expected "16.66667" to be "16.6667"                                                                                                                 number-max-precision
+  2310:7   ✖  Expected selector ".button-group.expanded .button:first-child:nth-last-child(6):last-child" to come before selector ".button-group.expanded         no-descending-specificity
+              .button:first-child:nth-last-child(2):first-child:nth-last-child(2) ~ .button"
+  2313:3   ✖  Expected selector ".button-group.primary .button" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"            no-descending-specificity
+  2317:5   ✖  Expected selector ".button-group.primary .button:hover" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"      no-descending-specificity
+  2317:42  ✖  Expected selector ".button-group.primary .button:focus" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"      no-descending-specificity
+  2321:3   ✖  Expected selector ".button-group.secondary .button" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"          no-descending-specificity
+  2325:5   ✖  Expected selector ".button-group.secondary .button:hover" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"    no-descending-specificity
+  2325:44  ✖  Expected selector ".button-group.secondary .button:focus" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"    no-descending-specificity
+  2329:3   ✖  Expected selector ".button-group.success .button" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"            no-descending-specificity
+  2333:5   ✖  Expected selector ".button-group.success .button:hover" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"      no-descending-specificity
+  2333:42  ✖  Expected selector ".button-group.success .button:focus" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"      no-descending-specificity
+  2337:3   ✖  Expected selector ".button-group.warning .button" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"            no-descending-specificity
+  2341:5   ✖  Expected selector ".button-group.warning .button:hover" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"      no-descending-specificity
+  2341:42  ✖  Expected selector ".button-group.warning .button:focus" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"      no-descending-specificity
+  2345:3   ✖  Expected selector ".button-group.alert .button" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"              no-descending-specificity
+  2349:5   ✖  Expected selector ".button-group.alert .button:hover" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"        no-descending-specificity
+  2349:40  ✖  Expected selector ".button-group.alert .button:focus" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"        no-descending-specificity
+  2353:3   ✖  Expected selector ".button-group.stacked .button" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"            no-descending-specificity
+  2353:34  ✖  Expected selector ".button-group.stacked-for-small .button" to come before selector ".button-group.expanded .button:first-child:nth-last-child(2)"  no-descending-specificity
+  2353:75  ✖  Expected selector ".button-group.stacked-for-medium .button" to come before selector ".button-group.expanded                                        no-descending-specificity
+              .button:first-child:nth-last-child(2)"
+  2356:5   ✖  Expected selector ".button-group.stacked .button:last-child" to come before selector ".button-group.expanded                                        no-descending-specificity
+              .button:first-child:nth-last-child(2)"
+  2356:47  ✖  Expected selector ".button-group.stacked-for-small .button:last-child" to come before selector ".button-group.expanded                              no-descending-specificity
+              .button:first-child:nth-last-child(2)"
+  2356:99  ✖  Expected selector ".button-group.stacked-for-medium .button:last-child" to come before selector ".button-group.expanded                             no-descending-specificity
+              .button:first-child:nth-last-child(2)"
+  2439:3   ✖  Expected selector ".menu > li > a" to come before selector ".breadcrumbs a:hover"                                                                   no-descending-specificity
+  2445:3   ✖  Expected selector ".menu a" to come before selector ".breadcrumbs a:hover"                                                                          no-descending-specificity
+  2449:3   ✖  Expected selector ".menu > li > a img" to come before selector "#map_canvas img"                                                                    no-descending-specificity
+  2459:3   ✖  Expected selector ".menu > li > a img" to come before selector "#map_canvas img"                                                                    no-descending-specificity
+  2459:3   ✖  Unexpected duplicate selector ".menu > li > a img,   .menu > li > a i,   .menu > li > a svg", first used at line 2449                               no-duplicate-selectors
+  2465:3   ✖  Expected selector ".menu > li" to come before selector "[data-whatinput='mouse'] .menu > li"                                                        no-descending-specificity
+  2465:3   ✖  Unexpected duplicate selector ".menu > li", first used at line 2432                                                                                 no-duplicate-selectors
+  2514:5   ✖  Expected selector ".menu.icon-top > li > a img" to come before selector "#map_canvas img"                                                           no-descending-specificity
+  2523:3   ✖  Expected selector ".menu .active > a" to come before selector ".menu.icon-top > li > a"                                                             no-descending-specificity
+  2533:3   ✖  Unexpected shorthand "padding" after "padding-top"                                                                                                  declaration-block-no-shorthand-property-overrides
+  2533:3   ✖  Unexpected shorthand "padding" after "padding-bottom"                                                                                               declaration-block-no-shorthand-property-overrides
+  2594:3   ✖  Expected selector ".is-drilldown li" to come before selector "[data-whatinput='mouse'] .menu > li"                                                  no-descending-specificity
+  2616:1   ✖  Expected selector ".is-drilldown-submenu-parent > a" to come before selector ".breadcrumbs a:hover"                                                 no-descending-specificity
+  2619:3   ✖  Expected selector ".is-drilldown-submenu-parent > a::after" to come before selector ".is-accordion-submenu-parent[aria-expanded='true'] >           no-descending-specificity
+              a::after"
+  2695:1   ✖  Expected selector "[data-whatinput='mouse'] .dropdown.menu a" to come before selector ".dropdown.menu > li.is-dropdown-submenu-parent > a"          no-descending-specificity
+  2763:3   ✖  Expected selector ".dropdown.menu.medium-vertical > li .is-dropdown-submenu" to come before selector ".dropdown.menu.medium-horizontal >            no-descending-specificity
+              li.opens-left > .is-dropdown-submenu"
+  2774:3   ✖  Expected selector ".dropdown.menu.medium-vertical > li > a::after" to come before selector ".dropdown.menu.medium-horizontal >                      no-descending-specificity
+              li.is-dropdown-submenu-parent > a::after"
+  2825:3   ✖  Expected selector ".dropdown.menu.large-vertical > li .is-dropdown-submenu" to come before selector ".dropdown.menu.large-horizontal >              no-descending-specificity
+              li.opens-left > .is-dropdown-submenu"
+  2836:3   ✖  Expected selector ".dropdown.menu.large-vertical > li > a::after" to come before selector ".dropdown.menu.large-horizontal >                        no-descending-specificity
+              li.is-dropdown-submenu-parent > a::after"
+  2874:3   ✖  Expected selector ".is-dropdown-submenu-parent a::after" to come before selector ".is-accordion-submenu-parent[aria-expanded='true'] > a::after"    no-descending-specificity
+  2880:3   ✖  Expected selector ".is-dropdown-submenu-parent.opens-inner > .is-dropdown-submenu" to come before selector ".dropdown.menu > li.opens-left >        no-descending-specificity
+              .is-dropdown-submenu"
+  2884:3   ✖  Expected selector ".is-dropdown-submenu-parent.opens-left > .is-dropdown-submenu" to come before selector ".dropdown.menu > li.opens-left >         no-descending-specificity
+              .is-dropdown-submenu"
+  2888:3   ✖  Expected selector ".is-dropdown-submenu-parent.opens-right > .is-dropdown-submenu" to come before selector ".dropdown.menu > li.opens-left >        no-descending-specificity
+              .is-dropdown-submenu"
+  2892:1   ✖  Expected selector ".is-dropdown-submenu" to come before selector ".dropdown.menu > li.opens-left > .is-dropdown-submenu"                            no-descending-specificity
+  2902:3   ✖  Expected selector ".is-dropdown-submenu .is-dropdown-submenu-parent > a::after" to come before selector ".dropdown.menu >                           no-descending-specificity
+              li.is-dropdown-submenu-parent > a::after"
+  2906:3   ✖  Expected selector ".is-dropdown-submenu .is-dropdown-submenu-parent.opens-left > a::after" to come before selector ".dropdown.menu >                no-descending-specificity
+              li.is-dropdown-submenu-parent > a::after"
+  2916:3   ✖  Expected selector ".is-dropdown-submenu .is-dropdown-submenu-parent.opens-right > a::after" to come before selector ".dropdown.menu >               no-descending-specificity
+              li.is-dropdown-submenu-parent > a::after"
+  2926:3   ✖  Expected selector ".is-dropdown-submenu .is-dropdown-submenu" to come before selector ".dropdown.menu > li.opens-left > .is-dropdown-submenu"       no-descending-specificity
+  2929:3   ✖  Expected selector ".is-dropdown-submenu > li" to come before selector "[data-whatinput='mouse'] .menu > li"                                         no-descending-specificity
+  2943:3   ✖  Expected selector ".flex-video object" to come before selector "#map_canvas object"                                                                 no-descending-specificity
+  2944:3   ✖  Expected selector ".flex-video embed" to come before selector "#map_canvas embed"                                                                   no-descending-specificity
+  2960:12  ✖  Expected "0.33333" to be "0.3333"                                                                                                                   number-max-precision
+  2989:3   ✖  Expected selector ".media-object img" to come before selector "#map_canvas img"                                                                     no-descending-specificity
+  3044:1   ✖  Unexpected duplicate selector ".off-canvas-content", first used at line 3044                                                                        no-duplicate-selectors
+  3175:1   ✖  Expected selector ".orbit-previous" to come before selector "[data-whatinput='mouse'] .orbit-previous"                                              no-descending-specificity
+  3178:1   ✖  Expected selector ".orbit-next" to come before selector "[data-whatinput='mouse'] .orbit-next"                                                      no-descending-specificity
+  3215:3   ✖  Expected selector ".pagination li" to come before selector "[data-whatinput='mouse'] .menu > li"                                                    no-descending-specificity
+  3221:5   ✖  Expected selector ".pagination li:last-child" to come before selector ".menu.expanded > li:first-child:last-child"                                  no-descending-specificity
+  3221:32  ✖  Expected selector ".pagination li:first-child" to come before selector ".menu.expanded > li:first-child:last-child"                                 no-descending-specificity
+  3228:3   ✖  Expected selector ".pagination a" to come before selector ".breadcrumbs a:hover"                                                                    no-descending-specificity
+  3229:3   ✖  Expected selector ".pagination button" to come before selector ".orbit-bullets button:hover"                                                        no-descending-specificity
+  3235:5   ✖  Expected selector ".pagination a:hover" to come before selector ".menu.icon-top > li > a"                                                           no-descending-specificity
+  3264:1   ✖  Expected selector ".pagination-next a::after" to come before selector ".is-accordion-submenu-parent[aria-expanded='true'] > a::after"               no-descending-specificity
+  3291:1   ✖  Expected selector ".progress-meter" to come before selector ".progress.primary .progress-meter"                                                     no-descending-specificity
+  3346:3   ✖  Expected selector ".reveal .column" to come before selector ".row.collapse > .column"                                                               no-descending-specificity
+  3346:20  ✖  Expected selector ".reveal .columns" to come before selector ".row.collapse > .columns"                                                             no-descending-specificity
+  3346:20  ✖  Expected selector ".reveal .columns" to come before selector ".row.collapse > .columns"                                                             no-descending-specificity
+  3346:20  ✖  Unexpected duplicate selector ".reveal .columns", first used at line 3346                                                                           no-duplicate-selectors
+  3575:1   ✖  Expected selector ".switch.tiny .switch-paddle" to come before selector "[data-whatinput='mouse'] input:focus ~ .switch-paddle"                     no-descending-specificity
+  3587:1   ✖  Expected selector ".switch.small .switch-paddle" to come before selector "[data-whatinput='mouse'] input:focus ~ .switch-paddle"                    no-descending-specificity
+  3592:1   ✖  Expected selector ".switch.small .switch-paddle::after" to come before selector ".switch.tiny input:checked ~ .switch-paddle::after"                no-descending-specificity
+  3599:1   ✖  Expected selector ".switch.large .switch-paddle" to come before selector "[data-whatinput='mouse'] input:focus ~ .switch-paddle"                    no-descending-specificity
+  3604:1   ✖  Expected selector ".switch.large .switch-paddle::after" to come before selector ".switch.tiny input:checked ~ .switch-paddle::after"                no-descending-specificity
+  3611:1   ✖  Unexpected duplicate selector "table", first used at line 385                                                                                       no-duplicate-selectors
+  3695:1   ✖  Expected selector ".tabs.vertical > li" to come before selector ".menu.expanded > li:first-child:last-child"                                        no-descending-specificity
+  3700:1   ✖  Expected selector ".tabs.simple > li > a" to come before selector ".dropdown.menu > li.is-dropdown-submenu-parent > a"                              no-descending-specificity
+  3709:3   ✖  Expected selector ".tabs.primary > li > a" to come before selector ".dropdown.menu > li.is-dropdown-submenu-parent > a"                             no-descending-specificity
+  3718:3   ✖  Expected selector ".tabs-title > a" to come before selector ".breadcrumbs a:hover"                                                                  no-descending-specificity
+  3724:5   ✖  Expected selector ".tabs-title > a:hover" to come before selector ".menu.icon-top > li > a"                                                         no-descending-specificity
+  3727:5   ✖  Expected selector ".tabs-title > a:focus" to come before selector ".menu.icon-top > li > a"                                                         no-descending-specificity
+  3788:1   ✖  Unexpected duplicate selector ".menu-icon.dark", first used at line 2567                                                                            no-duplicate-selectors
+  3796:3   ✖  Expected selector ".menu-icon.dark::after" to come before selector ".menu-icon.dark:hover::after"                                                   no-descending-specificity
+  3796:3   ✖  Unexpected duplicate selector ".menu-icon.dark::after", first used at line 2575                                                                     no-duplicate-selectors
+  3807:3   ✖  Unexpected duplicate selector ".menu-icon.dark:hover::after", first used at line 2586                                                               no-duplicate-selectors
+  3892:3   ✖  Expected selector ".top-bar ul" to come before selector ".no-js [data-responsive-menu] ul"                                                          no-descending-specificity
+  3929:1   ✖  Expected selector ".top-bar-left" to come before selector ".top-bar .top-bar-left"                                                                  no-descending-specificity
+  3932:1   ✖  Expected selector ".top-bar-right" to come before selector ".top-bar .top-bar-right"                                                                no-descending-specificity
+  4512:1   ✖  Unexpected duplicate selector ".slow", first used at line 4400                                                                                      no-duplicate-selectors
+  4515:1   ✖  Unexpected duplicate selector ".fast", first used at line 4403                                                                                      no-duplicate-selectors
+  4518:1   ✖  Unexpected duplicate selector ".linear", first used at line 4406                                                                                    no-duplicate-selectors
+  4521:1   ✖  Unexpected duplicate selector ".ease", first used at line 4409                                                                                      no-duplicate-selectors
+  4524:1   ✖  Unexpected duplicate selector ".ease-in", first used at line 4412                                                                                   no-duplicate-selectors
+  4527:1   ✖  Unexpected duplicate selector ".ease-out", first used at line 4415                                                                                  no-duplicate-selectors
+  4530:1   ✖  Unexpected duplicate selector ".ease-in-out", first used at line 4418                                                                               no-duplicate-selectors
+  4533:1   ✖  Unexpected duplicate selector ".bounce-in", first used at line 4421                                                                                 no-duplicate-selectors
+  4536:1   ✖  Unexpected duplicate selector ".bounce-out", first used at line 4424                                                                                no-duplicate-selectors
+  4539:1   ✖  Unexpected duplicate selector ".bounce-in-out", first used at line 4427                                                                             no-duplicate-selectors
+  4542:1   ✖  Unexpected duplicate selector ".short-delay", first used at line 4430                                                                               no-duplicate-selectors
+  4545:1   ✖  Unexpected duplicate selector ".long-delay", first used at line 4433                                                                                no-duplicate-selectors
+
+✖ 318 problems (318 errors, 0 warnings)
+
